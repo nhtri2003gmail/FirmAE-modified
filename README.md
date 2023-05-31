@@ -2,9 +2,9 @@
 
 This repo introduce several tools for firmware attacking.
 
-# [FirmAE](https://github.com/pr0v3rbs/FirmAE)
+### [FirmAE](https://github.com/pr0v3rbs/FirmAE)
 
-Due to some error when installing pure FirmAE (especially when installing binwalk) from original repo, I modified somethings a bit so you can download FirmAE just by running the following commands to install FirmAE:
+Due to some error when installing pure FirmAE (especially when installing binwalk) from original repo, I modified somethings a bit so you can download FirmAE just by copying and running these following commands to install FirmAE:
 
 ```bash
 git clone --recursive https://github.com/pr0v3rbs/FirmAE
